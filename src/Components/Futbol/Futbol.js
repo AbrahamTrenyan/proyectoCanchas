@@ -8,7 +8,7 @@ const Futbol = () => {
     const [futbol, setFutbol] = useState([])
     const reservas = []
     const reservar = (CanchayHora) => {
-        reservas.push(...CanchayHora)
+        reservas.push(CanchayHora)
         localStorage.setItem("reserva", JSON.stringify(reservas))
         toast.success("Su reserva ha sido realizada con éxito!", {
             position: "top-center",
