@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/proyectoCanchas/static/css/main.c96172d6.css",
-    "main.js": "/proyectoCanchas/static/js/main.099ceb02.js",
+    "main.js": "/proyectoCanchas/static/js/main.a829730f.js",
     "static/js/787.7c84c24e.chunk.js": "/proyectoCanchas/static/js/787.7c84c24e.chunk.js",
     "static/media/futbol.jpg": "/proyectoCanchas/static/media/futbol.266364b185ba4efe46f9.jpg",
     "static/media/tenis.jpg": "/proyectoCanchas/static/media/tenis.9f6638ecce39b2af350b.jpg",
@@ -10,11 +10,11 @@
     "static/media/Logo.png": "/proyectoCanchas/static/media/Logo.26a52e89321f74a4c604.png",
     "index.html": "/proyectoCanchas/index.html",
     "main.c96172d6.css.map": "/proyectoCanchas/static/css/main.c96172d6.css.map",
-    "main.099ceb02.js.map": "/proyectoCanchas/static/js/main.099ceb02.js.map",
+    "main.a829730f.js.map": "/proyectoCanchas/static/js/main.a829730f.js.map",
     "787.7c84c24e.chunk.js.map": "/proyectoCanchas/static/js/787.7c84c24e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c96172d6.css",
-    "static/js/main.099ceb02.js"
+    "static/js/main.a829730f.js"
   ]
 }
