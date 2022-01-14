@@ -5,7 +5,7 @@ import Futbol from './Components/Futbol';
 import Tenis from './Components/Tenis';
 import Voley from './Components/Voley'
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Routes,
   Route
 } from "react-router-dom";

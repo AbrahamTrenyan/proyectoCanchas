@@ -27,9 +27,9 @@ const Futbol = () => {
             })
     }, [])
     return (
-        <>
-            <Toaster />
+        <div>
             <div style={{ color: "#000066" }}>
+                <Toaster />
                 <div className="container">
                     <h1>Canchas de Fútbol</h1>
                 </div>
@@ -59,7 +59,7 @@ const Futbol = () => {
                     </div>
                 }
             </div>
-        </>
+        </div>
     );
 }
 
